@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedule>
+  <processtime>
+    <start>06:00:00</start>
+    <end>23:59:00</end>
+    <service>UP</service>
+  </processtime>
+</schedule>
